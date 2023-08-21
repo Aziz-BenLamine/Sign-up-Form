@@ -1,5 +1,6 @@
 #X Sign-up Form design (UNOFFICIAL)
 
+![X Sign-up Screenshot](https://github.com/Aziz-BenLamine/Sign-up-Form/blob/main/assets/Screenshot.png)
 A clean and intuitive sign-up form for the everything platform "X". Built to provide users with an easy entry into the X metaverse which encompasses finance, social media, news, and more.
 
 ## Features
